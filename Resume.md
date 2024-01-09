@@ -1,24 +1,16 @@
-Adam Thiemann
+# **Adam Thiemann**
 
-Washington D.C. | (704)996-0660 | thiemann.adam@gmail.com | TS/SCI Cleared
+## **Washington D.C. | (704)996-0660 | thiemann.adam@gmail.com | TS/SCI Cleared**
 
-**Professional Summary**
-
+### **Professional Summary**
 An experienced senior network engineer capable of networking, cyber, analytics, and leading small to mid-sized teams to meet and exceed expectations.
 
-**Certifications and Education**
+### **Certifications and Education**
 
-<![if !supportLists]>· <![endif]>B.A. in Applied Computing, Charleston Southern Univ.
-
-<![if !supportLists]>· <![endif]>CCNA
-
-<![if !supportLists]>· <![endif]>CompTIA Security+
-
-  
-
-  
-
-**Work Experience**
+- B.A. in Applied Computing, Charleston Southern Univ.
+- CCNA
+- CompTIA Security+
+#### **Work Experience**
 
 **Senior Network Engineer/Regional Network Lead – Leidos (NMCI)  July 2023 – Present**
 
@@ -98,5 +90,5 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 <![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDI3MzgyNF19
+eyJoaXN0b3J5IjpbLTEyMjkwODM3MzddfQ==
 -->
