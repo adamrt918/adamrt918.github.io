@@ -10,20 +10,15 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 - B.A. in Applied Computing, Charleston Southern Univ.
 - CCNA
 - CompTIA Security+
-#### **Work Experience**
+### **Work Experience**
 
 **Senior Network Engineer/Regional Network Lead – Leidos (NMCI)  July 2023 – Present**
 
-<![if !supportLists]>· <![endif]>Met and exceeded organizational goals for a hybrid fifteen (15) person team by empowering members to be autonomous while still having team support to perform their duties.
-
-<![if !supportLists]>· <![endif]>Successfully staffed all fifteen positions, increasing average turnover for positions from six months to two years.
-
-<![if !supportLists]>· <![endif]>Created a culture of mutual support, trust, and positive organizational behavior through weekly team meetings and quarterly 1 on 1 meetings, allowing our diverse team to focus on performance and personal relationships.
-
-<![if !supportLists]>· <![endif]>Configured routing protocols such as EIGRP, OSPF, and internal/external BGP for use on an enterprise network.
-
-<![if !supportLists]>· <![endif]>Spoke personally with VIPs, including the Chief of Naval Operations, Admiral Lisa Franchetti, and director of the Navy’s largest command – NAVSEA – Vice Admiral Robert Downey, about issues affecting their network and how Leidos, though not responsible for the outage, was working with the responsible parties to restore connectivity as fast as possible. This resulted in a positive personal relationship with each VIP where they felt like they could reach out to me personally to resolve issues with their network. It also led to the purchasing of a quarter million-dollar circuit changeover for the CNO so that Leidos would be directly managing her network.
-
+- Met and exceeded organizational goals for a hybrid fifteen (15) person team by empowering members to be autonomous while still having team support to perform their duties.
+- Successfully staffed all fifteen positions, increasing average turnover for positions from six months to two years.
+- Created a culture of mutual support, trust, and positive organizational behavior through weekly team meetings and quarterly 1 on 1 meetings, allowing our diverse team to focus on performance and personal relationships.
+- Configured routing protocols such as EIGRP, OSPF, and internal/external BGP for use on an enterprise network.
+- Spoke personally with VIPs, including the Chief of Naval Operations, Admiral Lisa Franchetti, and director of the Navy’s largest command – NAVSEA – Vice Admiral Robert Downey, about issues affecting their network and how Leidos, though not responsible for the outage, was working with the responsible parties to restore connectivity as fast as possible. This resulted in a positive personal relationship with each VIP where they felt like they could reach out to me personally to resolve issues with their network. It also led to the purchasing of a quarter million-dollar circuit changeover for the CNO so that Leidos would be directly managing her network.
 <![if !supportLists]>· <![endif]>Performed troubleshooting of IPSec issues over MPLS.
 
 <![if !supportLists]>· <![endif]>Worked as the CO for COMSEC LE’s on four different accounts – performing quarterly spot checks and annual inspections to maintain compliance with government standards.
@@ -90,5 +85,5 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 <![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkwODM3MzddfQ==
+eyJoaXN0b3J5IjpbLTE0NjYyMjEwMF19
 -->
