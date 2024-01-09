@@ -18,7 +18,7 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 - Successfully staffed all fifteen positions, increasing average turnover for positions from six months to two years.
 - Created a culture of mutual support, trust, and positive organizational behavior through weekly team meetings and quarterly 1 on 1 meetings, allowing our diverse team to focus on performance and personal relationships.
 - Configured routing protocols such as EIGRP, OSPF, and internal/external BGP for use on an enterprise network.
-- Spoke personally with VIPs, including the director of the Navy’s largest command, NAVSEA's Vice Admiral Robert Downey, about issues affecting their network and how Leidos, though not responsible for the outage, was working with the responsible parties to restore connectivity as fast as possible. This resulted in a positive personal relationship with each VIP where they felt like they could reach out to me personally to resolve issues with their network. 
+- Spoke personally with VIPs, including the director of the Navy’s largest command, NAVSEA's Vice Admiral Robert Downey, about issues affecting their network and how Leidos, though not responsible for the outage, was working with the responsible parties to restore connectivity as fast as possible. This resulted in a positive personal relationship with VADM Downey, where he felt like he could reach out to my team personally to resolve issues with his network. 
 - Performed troubleshooting of IPSec issues over MPLS.
 - Worked as the CO for COMSEC LE’s on four different accounts – performing quarterly spot checks and annual inspections to maintain compliance with government standards.
 - Tracked projects throughout all phases of implementation.
@@ -26,19 +26,13 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 **Network Engineer – Inflow LLC (NMCI)  October 2022 – July 2023**
 
-<![if !supportLists]>· <![endif]>Coordinate with 6 Network Engineers on our team at various locations around DC to help one another and get support for large projects.
-
-<![if !supportLists]>· <![endif]>Delegated manager for projects, incidents, and tickets for the whole team, resulting in projects completed in less than a month after bundle issue.
-
-<![if !supportLists]>· <![endif]>Maintain the critical path and meet deadlines for projects and incidents assigned to our area.
-
-<![if !supportLists]>· <![endif]>Deliver comprehensive reports on current projects, incidents, and outages to the site manager.
-
-<![if !supportLists]>· <![endif]>Provided training and guidance for 5 new engineers.
-
-<![if !supportLists]>· <![endif]>Established a curriculum for onboarding new employees and getting them trained for the day-to-day job taskings.
-
-<![if !supportLists]>· <![endif]>Created and executed a rapid burn down plan after years of backlog.
+- Coordinate with 6 Network Engineers on our team at various locations around DC to help one another and get support for large projects.
+- Delegated manager for projects, incidents, and tickets for the whole team, resulting in projects completed in less than a month after bundle issue.
+- Maintain the critical path and meet deadlines for projects and incidents assigned to our area.
+- Deliver comprehensive reports on current projects, incidents, and outages to the site manager.
+- Provided training and guidance for 5 new engineers.
+- Established a curriculum for onboarding new employees and getting them trained for the day-to-day job taskings.
+- Created and executed a rapid burn down plan after years of backlog.
 
 **Network Analyst – State Farm  August 2022 – October 2022**
 
@@ -82,5 +76,5 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 <![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk3MTk5MTVdfQ==
+eyJoaXN0b3J5IjpbMTM5MjA5MjU1NF19
 -->
