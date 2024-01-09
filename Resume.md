@@ -45,22 +45,16 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 **Mid-Level Network Engineer – Inflow LLC (NMCI)  March 2019 – February 2022**
 
 - Configured Deployable Site Transport Boundaries (DSTB’s) for use through various vendor circuits to include CradlePoints, T1 Circuits, and DOCSIS Cable Modems to support customers in establishing remote worksites.
-
 - Coordinated country-wide efforts to schedule sites for SIPR MPLS circuit deployments, resulting in the ability for sites to have the support of multiple teams.
-
 - Implemented multiple large boundary changeovers from IPSEC to MPLS tunnels, each with unique network solutions.
-
 - Configure, install, deploy, and troubleshoot various Cisco switches, routers, Brocade ICX and FCX switches, SteelHead WAN-X devices, McAffee IPS/IDS, and Juniper VPN’s.
-
 - Work with on-site personnel to ensure that the network team has the proper means and cable management to install the network equipment according to DoD regulation and industry cabling standards.
-
-<![if !supportLists]>· <![endif]>Experience with wireless implementation and troubleshooting the Aruba Networks Wireless Controllers, as well as installing various Aruba WAPs and licenses.
+- Experience with wireless implementation and troubleshooting the Aruba Networks Wireless Controllers, as well as installing various Aruba WAPs and licenses.
 
 **Ranger Gun Team Leader – US Special Operations Command (USASOC)  July 2015 – January 2019**
 
-<![if !supportLists]>· <![endif]>Lead and taught two (3) other team members completely new skills under time restraint to successfully complete high priority taskings.
-
-<![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
+- Lead and taught two (3) other team members completely new skills under time restraint to successfully complete high priority taskings.
+- Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzEwNzE4M119
+eyJoaXN0b3J5IjpbLTEzNTk3MjI2N119
 -->
