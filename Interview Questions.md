@@ -21,11 +21,11 @@ I believe I am most suited to the technical management side of IT. My promotion 
 As far as being a member of the IT community, I don't find myself planning to join any IT or computer related organizations. Working in the industry is enough, but I currently have other priorities outside of computing and IT. Being an active member of my church, writing my war memoirs, and preparing to have a family are my current focuses. For 40 hours per week, my full attention is devoted to IT and the team around me. Outside of that, my priorities in IT are limited; however I would like to earn my CCNP Enterprise through self-study, and eventually I would like to earn my masters in computer science and move towards the software industry.
 
 ## Community Service
-The skills taught in computer science translate, surprisingly, to combat, as well as the rest of life. Not every program can have every piece of functionality, so selecting the scope of a project is very important to its' success. For example, my interest in IT is limited to work, so I don't plan to join any professional IT organizations. Instead, I am focused on my family and church. Defining such a scope is important for community service as well, as I have served for 5 years with the United States Naval Sea Cadet Corps. 
+The skills taught in computer science translate, surprisingly, to combat, as well as the rest of life. Not every program can have every piece of functionality, so selecting the scope of a project is very important to its' success. For example, my interest in IT is limited to work, so I don't plan to join any professional IT organizations. Instead, I am focused on my family and church. Defining such a scope is important for community service as well, as I have served for 5 years with the United States Naval Sea Cadet Corps as an instructor. There, I use some of the skills learned in IT to solve problems within
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgyMzI3MzAsLTE0MTA1MzgxMDldfQ
+eyJoaXN0b3J5IjpbLTE4NjM5MDgxNTAsLTE0MTA1MzgxMDldfQ
 ==
 -->
