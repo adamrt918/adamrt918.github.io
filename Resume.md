@@ -18,14 +18,11 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 - Successfully staffed all fifteen positions, increasing average turnover for positions from six months to two years.
 - Created a culture of mutual support, trust, and positive organizational behavior through weekly team meetings and quarterly 1 on 1 meetings, allowing our diverse team to focus on performance and personal relationships.
 - Configured routing protocols such as EIGRP, OSPF, and internal/external BGP for use on an enterprise network.
-- Spoke personally with VIPs, including the Chief of Naval Operations, Admiral Lisa Franchetti, and director of the Navy’s largest command – NAVSEA – Vice Admiral Robert Downey, about issues affecting their network and how Leidos, though not responsible for the outage, was working with the responsible parties to restore connectivity as fast as possible. This resulted in a positive personal relationship with each VIP where they felt like they could reach out to me personally to resolve issues with their network. It also led to the purchasing of a quarter million-dollar circuit changeover for the CNO so that Leidos would be directly managing her network.
-<![if !supportLists]>· <![endif]>Performed troubleshooting of IPSec issues over MPLS.
-
-<![if !supportLists]>· <![endif]>Worked as the CO for COMSEC LE’s on four different accounts – performing quarterly spot checks and annual inspections to maintain compliance with government standards.
-
-<![if !supportLists]>· <![endif]>Tracked projects throughout all phases of implementation.
-
-<![if !supportLists]>· <![endif]>Ensured accountability for all equipment through a stringent site asset management process before being required to do so.
+- Spoke personally with VIPs, including the director of the Navy’s largest command, NAVSEA's Vice Admiral Robert Downey, about issues affecting their network and how Leidos, though not responsible for the outage, was working with the responsible parties to restore connectivity as fast as possible. This resulted in a positive personal relationship with each VIP where they felt like they could reach out to me personally to resolve issues with their network. 
+- Performed troubleshooting of IPSec issues over MPLS.
+- Worked as the CO for COMSEC LE’s on four different accounts – performing quarterly spot checks and annual inspections to maintain compliance with government standards.
+- Tracked projects throughout all phases of implementation.
+- Ensured accountability for all equipment through a stringent site asset management process before being required to do so.
 
 **Network Engineer – Inflow LLC (NMCI)  October 2022 – July 2023**
 
@@ -85,5 +82,5 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 <![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYyMjEwMF19
+eyJoaXN0b3J5IjpbLTE1OTk3MTk5MTVdfQ==
 -->
