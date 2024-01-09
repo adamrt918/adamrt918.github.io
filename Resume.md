@@ -36,7 +36,7 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 **Network Analyst – State Farm  August 2022 – October 2022**
 
-<![if !supportLists]>· <![endif]>Worked with various SDWAN solutions including Viptela and Velocloud.
+- Worked with various SDWAN solutions including Viptela and Velocloud.
 
 <![if !supportLists]>· <![endif]>Managed T1, Metro Ethernet, Cradlepoint/ Digi LTE Modems, DSL, broadband, and Fiber circuits to maintain redundancy and proper load balancing, as well as prioritizing traffic to use specific circuits depending on site needs.
 
@@ -76,5 +76,5 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 <![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjA5MjU1NF19
+eyJoaXN0b3J5IjpbLTE3ODcwNjcxMjJdfQ==
 -->
