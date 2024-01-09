@@ -37,36 +37,22 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 **Network Analyst – State Farm  August 2022 – October 2022**
 
 - Worked with various SDWAN solutions including Viptela and Velocloud.
-
-<![if !supportLists]>· <![endif]>Managed T1, Metro Ethernet, Cradlepoint/ Digi LTE Modems, DSL, broadband, and Fiber circuits to maintain redundancy and proper load balancing, as well as prioritizing traffic to use specific circuits depending on site needs.
-
-<![if !supportLists]>· <![endif]>Used Aruba and Cisco CLI, as well as Aruba Central, Cisco vManage, Splunk, MAUL, and Cradlepoint netCloud to manage circuits, view network statistics, and configure SDWAN routers.
-
-<![if !supportLists]>· <![endif]>Coordinated troubleshooting sessions and provided the ISP with evidence required to troubleshoot their circuits.
-
-<![if !supportLists]>· <![endif]>Diagnosed call quality issues on the network for VOIP and analog sites.
-
-**Squad Leader – Ukrainian Foreign Legion  February 2022 – July 2022**
-
-<![if !supportLists]>· <![endif]>Organized a team of twelve (12) people from extremely diverse backgrounds to accomplish difficult tasks under extremely austere conditions.
-
-<![if !supportLists]>· <![endif]>Implemented standards for all squad members to establish a baseline for conducting operations.
-
-<![if !supportLists]>· <![endif]>Overcame heavy logistical, administrative, and command challenges to complete objectives.
-
-<![if !supportLists]>· <![endif]>Consistently showed that I was a reliable and trustworthy leader throughout multiple combat operations resulting in high retention for team members.
+- Managed T1, Metro Ethernet, Cradlepoint/ Digi LTE Modems, DSL, broadband, and Fiber circuits to maintain redundancy and proper load balancing, as well as prioritizing traffic to use specific circuits depending on site needs.
+- Used Aruba and Cisco CLI, as well as Aruba Central, Cisco vManage, Splunk, MAUL, and Cradlepoint netCloud to manage circuits, view network statistics, and configure SDWAN routers.
+- Coordinated troubleshooting sessions and provided the ISP with evidence required to troubleshoot their circuits.
+- Diagnosed call quality issues on the network for VOIP and analog sites.
 
 **Mid-Level Network Engineer – Inflow LLC (NMCI)  March 2019 – February 2022**
 
-<![if !supportLists]>· <![endif]>Configured Deployable Site Transport Boundaries (DSTB’s) for use through various vendor circuits to include CradlePoints, T1 Circuits, and DOCSIS Cable Modems to support customers in establishing remote worksites.
+- Configured Deployable Site Transport Boundaries (DSTB’s) for use through various vendor circuits to include CradlePoints, T1 Circuits, and DOCSIS Cable Modems to support customers in establishing remote worksites.
 
-<![if !supportLists]>· <![endif]>Coordinated country-wide efforts to schedule sites for SIPR MPLS circuit deployments, resulting in the ability for sites to have the support of multiple teams.
+- Coordinated country-wide efforts to schedule sites for SIPR MPLS circuit deployments, resulting in the ability for sites to have the support of multiple teams.
 
-<![if !supportLists]>· <![endif]>Implemented multiple large boundary changeovers from IPSEC to MPLS tunnels, each with unique network solutions.
+- Implemented multiple large boundary changeovers from IPSEC to MPLS tunnels, each with unique network solutions.
 
-<![if !supportLists]>· <![endif]>Configure, install, deploy, and troubleshoot various Cisco switches, routers, Brocade ICX and FCX switches, SteelHead WAN-X devices, McAffee IPS/IDS, and Juniper VPN’s.
+- Configure, install, deploy, and troubleshoot various Cisco switches, routers, Brocade ICX and FCX switches, SteelHead WAN-X devices, McAffee IPS/IDS, and Juniper VPN’s.
 
-<![if !supportLists]>· <![endif]>Work with on-site personnel to ensure that the network team has the proper means and cable management to install the network equipment according to DoD regulation and industry cabling standards.
+- Work with on-site personnel to ensure that the network team has the proper means and cable management to install the network equipment according to DoD regulation and industry cabling standards.
 
 <![if !supportLists]>· <![endif]>Experience with wireless implementation and troubleshooting the Aruba Networks Wireless Controllers, as well as installing various Aruba WAPs and licenses.
 
@@ -76,5 +62,5 @@ An experienced senior network engineer capable of networking, cyber, analytics, 
 
 <![if !supportLists]>· <![endif]>Prioritized taskings under high stress and completed rapid burn down plans for various issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcwNjcxMjJdfQ==
+eyJoaXN0b3J5IjpbMTMyNzEwNzE4M119
 -->
