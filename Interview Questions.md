@@ -18,9 +18,12 @@ Some issues I run into with teamwork, and leadership specifically, is that I oft
 I believe I am most suited to the technical management side of IT. My promotion to Regional Lead, with only 3 years of experience in the IT field, showcases this alignment of skills and competence. My experience leading a small team in special operations, and later a small platoon as a legionnaire also showcase my experience doing so. I thoroughly enjoy driving my team to perform to the highest standards and being #1, while also enjoying the comradery along the way. I believe I am suited to this and not simply a more technical position, or the project management side is because I enjoy the technical aspect of IT, and it is something I am very good at; however, sitting in front of a computer fixing logical or virtual routing issues is not the only place where I see myself doing good work. I can do that and manage a reasonable workload, while also improving whatever team I find myself working with or leading.
 
 ## Professional Organizations
-As far as being a member of the IT community, I don't find myself planning to join any IT or computer related organizations. Working in the industry is enough, but I currently have other priorities outside of computing and IT. Being an active member of my church, writing my war memoirs, and preparing to have a family are my current focuses. For 40 hours per week, my full attention is devoted to IT and the team around me. Outside of that, my priorities in IT are limited.
+As far as being a member of the IT community, I don't find myself planning to join any IT or computer related organizations. Working in the industry is enough, but I currently have other priorities outside of computing and IT. Being an active member of my church, writing my war memoirs, and preparing to have a family are my current focuses. For 40 hours per week, my full attention is devoted to IT and the team around me. Outside of that, my priorities in IT are limited; however I would like to earn my CCNP Enterprise through self-study, and eventually I would like to earn my masters in computer science and move towards the software industry.
+
+##
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTg3MDQ3OSwtMTQxMDUzODEwOV19
+eyJoaXN0b3J5IjpbLTE1MTYzNDg0MTEsLTE0MTA1MzgxMDldfQ
+==
 -->
