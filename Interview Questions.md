@@ -1,31 +1,74 @@
-# Interview Questions
 
-## Resilience
-The most difficult issue I overcame during my academic development was lack of purpose. I initially started attending college for the GI Bill money because I could not get ahead on finances. After two years in the IT industry, I had received multiple raises in compensation, a promotion, and was living too comfortably for a single Christian man. God calls us to a much higher purpose than the standard American pathway which entraps many Christians. My issues were no longer with sustenance and finances, but with time and companionship. School no longer fulfilled any of the purposes which God had laid upon my heart. For that reason, I decided that I could move somewhere with a slower pace of life, a cheaper cost of living, and perhaps find a companion (because I had no luck in the United States). Though serving in special operations was immensely beneficial to many aspects of life, being emotionally vulnerable was one where it impacted me negatively.
-  
-Despite school not fulfilling my purpose at the time, I refused to withdraw. I continued my education at a slower pace, moved to Ukraine, and began learning Ukrainian to go on the adventure of a lifetime. Why Ukraine? It is a European nation, akin to what I am used to in America. Also, the conversion rate for dollars to hryvnia was nearly 1 to 30, which meant I could live comfortably for the rest of my time in college, learn a new language, and have plenty of time to seek companionship. It was a win-win-win situation, until Russia invaded. By that time, I had grown so close to the people who showed me such hospitality and fallen in love with my now wife, that with my army experience and Christian background, there was only one option. I chose to withdraw from classes and serve in any capacity that I could. I left Ukraine with a wife and many close friends. After returning, I took a couple months off to decompress, then picked up where I left off on my degree and work, achieving another promotion in less than a year of returning. Despite having absolutely no purpose in attending college and not needing a degree in my career field, I still finished what I started. Sometimes, resilience is all one has to get through a difficult situation. I proved to myself that I would stick it out, no matter the difficulty.
+Portfolio
+=========
 
-## Teamwork
-I worked with a team constantly throughout my time at CSU. Though I was an online student, I was still made to work in teams through online mediums. Admittedly, most of my teamwork experience has been through my career, which I worked all throughout college. I started as a mid-level network engineer on a 3 man team. We exceeded the expectations of regional leadership by performing maintenances in 1/3 or less of our allocated time, troubleshooting network incidents within 24 hours, and keeping up with our day to day taskings. After leaving the position to go to Ukraine, I continued to perform as a team member and exert influence where I could. Ukraine had its' own military, and I was an outsider. Though I had two deployments to Afghanistan and 4 years of special operations experience, I couldn't expect anyone to listen to me. I had to serve and be competent in my service, then I was slowly given the opportunity to exert influence. Which I did tactfully, always listening to the order which came from those appointed over me. 
+Programming Projects
+--------------------
 
-This served me well When I returned to the IT sector and picked back up with IT. The team I entered was disjointed, did not communicate, and was failing the metrics set forth by Leidos and the government. Though I could have relegated myself to the position for which I was hired, I was experienced enough at my job to complete all of my taskings, and have a significant amount of time leftover. So, I began to go out to the sites where other engineers sat. I helped them with their projects, and they began to come to me with questions. Rather than failing maintenances over and over because of a lack of leadership, I created a burndown plan where I would complete my taskings, then help teach the engineers at other sites what they needed to know to execute the burndown plan. It worked, and I ended a 4 year backlog of maintenances in 8 months, and helped to create a team which relied upon one another when help was needed. 
+*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
-Unfortunately, most sites across the enterprise were experiencing the same issues. Regional site leads were chosen to combat this issue, but they needed 4 years of experience in the role. I only had 3. Despite this, I contacted some project managers and they agreed to put in a good word with me to the Leidos leadership. I received an interview, where I was able to point to the work I had done, and the engineers which I had been working with all backed up my claims. I was promoted to the Regional Lead position. The achievement though, was not being promoted. It was that when I was promoted, I had a fifteen (15) person team which loved to work with me, and would happily do the tasks which they were assigned -- even if it wasn't in their job scope or description. 
+---
+### [Project 1 Title | CSCI 301](project1)
 
-Some issues I run into with teamwork, and leadership specifically, is that I often allow people to fail. That is typically viewed as bad, but I view it as the only way forward. Sometimes, other individuals, and even customers, like to point fingers at some failures which my team has undergone. I failed my IT exams twice before passing, and other team members have failed high priority maintenances which I may have been able to prevent but didn't, because I wanted them to learn the lesson for themselves. I have failed at missions on the battlefield -- the enemy always gets a say. This method can certainly be viewed as bad. But as the least experienced regional lead, I have something to prove. I won't let my inexperience get in the way of making my region the best in the enterprise, and to do that, each of my team members need to be highly competent, and fulfill a purpose. By allowing them to fail, it presents a challenge they must attempt multiple times and work through, gaining a large amount of experience and knowledge in the process, though sometimes our metrics and customer satisfaction suffer because of it. In the long term, however, I know from experience that it will pay off.
+![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
-## Career
-I believe I am most suited to the technical management side of IT. My promotion to Regional Lead, with only 3 years of experience in the IT field, showcases this alignment of skills and competence. My experience leading a small team in special operations, and later a small platoon as a legionnaire also showcase my experience doing so. I thoroughly enjoy driving my team to perform to the highest standards and being #1, while also enjoying the comradery along the way. I believe I am suited to this and not simply a more technical position, or the project management side is because I enjoy the technical aspect of IT, and it is something I am very good at; however, sitting in front of a computer fixing logical or virtual routing issues is not the only place where I see myself doing good work. I can do that and manage a reasonable workload, while also improving whatever team I find myself working with or leading.
+---
+### [Project 2 Title | CSCI 315](project1)
 
-## Professional Organizations
-As far as being a member of the IT community, I don't find myself planning to join any IT or computer related organizations. Working in the industry is enough, but I currently have other priorities outside of computing and IT. Being an active member of my church, writing my war memoirs, and preparing to have a family are my current focuses. For 40 hours per week, my full attention is devoted to IT and the team around me. Outside of that, my priorities in IT are limited; however I would like to earn my CCNP Enterprise through self-study, and eventually I would like to earn my masters in computer science and move towards the software industry.
+![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
-## Community Service
-The skills taught in computer science translate, surprisingly, to combat, as well as the rest of life. Not every program can have every piece of functionality, so selecting the scope of a project is very important to its' success. For example, my interest in IT is limited to work, so I don't plan to join any professional IT organizations. Instead, I am focused on my family and church. Defining such a scope is important for community service as well, as I have served for 5 years with the United States Naval Sea Cadet Corps as an instructor. There, I use some of the skills learned in IT to solve problems within the unit, and provide better instruction to the future leaders of America.
+---
+### [Project 3 Title | CSCI 325](project1)
+
+![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
+### [Project 4 Title | CSCI 332](project1)
+
+![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
+
+Ethics Papers
+-------------
+
+### [Paper 1 Title](/pdf/sample_presentation.pdf)
+
+-   **Class:**  
+-   **Grade:**
+
+### [Paper 2 Title](/pdf/sample_presentation.pdf)
+
+-   **Class:** 
+-   **Grade:**
+
+### [Paper 3 Title](/pdf/sample_presentation.pdf)
+
+-   **Class:** 
+-   **Grade:**
+
+---
+
+Presentations
+-------------
+
+### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+
+- **Class:** 
+- **Grade:**
 
 
+### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+
+- **Class:** 
+- **Grade:**
+
+---
+
+<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
+<!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY2MTc1OTMsLTE0MTA1MzgxMDldfQ
-==
+eyJoaXN0b3J5IjpbLTQ1NTM3MjE5NiwtMTI5NjYxNzU5MywtMT
+QxMDUzODEwOV19
 -->
