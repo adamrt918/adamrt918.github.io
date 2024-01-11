@@ -53,10 +53,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Hybrid Warfare](https://1drv.ms/p/s!Aofa4H6h1GyzgY4pWT64OkoOW6_r1g?e=kr7G1I)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405 Principles of Cyber Security
+- **Grade:** B+
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
@@ -70,7 +70,7 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Njk4NzU3OCwxNDAxNDYxNjk1LC0yMD
-k5MjExNDU4LDg0ODcwNDY3OCwxOTU1MjM5MzI5LC0xMjk2NjE3
-NTkzLC0xNDEwNTM4MTA5XX0=
+eyJoaXN0b3J5IjpbLTQyMjE0NTU0NCwxOTg2OTg3NTc4LDE0MD
+E0NjE2OTUsLTIwOTkyMTE0NTgsODQ4NzA0Njc4LDE5NTUyMzkz
+MjksLTEyOTY2MTc1OTMsLTE0MTA1MzgxMDldfQ==
 -->
