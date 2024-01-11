@@ -59,10 +59,10 @@ Presentations
 - **Grade:** B+
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Stuxnet: The Dawn of Cyber Warfare](https://1drv.ms/p/s!Aofa4H6h1GyzgY4qXPuC5JNuiaE2ZQ?e=fAwvby)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405 Principles of Cyber Security
+- **Grade:** B+
 
 ---
 
@@ -70,7 +70,7 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjE0NTU0NCwxOTg2OTg3NTc4LDE0MD
-E0NjE2OTUsLTIwOTkyMTE0NTgsODQ4NzA0Njc4LDE5NTUyMzkz
-MjksLTEyOTY2MTc1OTMsLTE0MTA1MzgxMDldfQ==
+eyJoaXN0b3J5IjpbLTIwODE0MjExOTMsMTk4Njk4NzU3OCwxND
+AxNDYxNjk1LC0yMDk5MjExNDU4LDg0ODcwNDY3OCwxOTU1MjM5
+MzI5LC0xMjk2NjE3NTkzLC0xNDEwNTM4MTA5XX0=
 -->
