@@ -5,7 +5,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please **[email me](https://mail.google.com/mail/?view=cm&source=mailto&to=thiemann.adam@gmail.com&su=Github_Access).**
+*For access to my private project repositories, please **[email me](https://mail.google.com/mail/?view=cm&source=mailto&to=thiemann.adam@gmail.com&su=Github_Access)**.
 
 
 ---
@@ -70,6 +70,6 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM1MjUwODIsMTk1NTIzOTMyOSwtMT
-I5NjYxNzU5MywtMTQxMDUzODEwOV19
+eyJoaXN0b3J5IjpbODQ4NzA0Njc4LDE5NTUyMzkzMjksLTEyOT
+Y2MTc1OTMsLTE0MTA1MzgxMDldfQ==
 -->
