@@ -9,7 +9,7 @@ Programming Projects
 
 
 ---
-### [Project 1 Title | CSCI 301](project2)
+### [Project 1 Title | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -70,8 +70,8 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjcwMDc5MiwtMjA4MTQyMTE5MywxOT
-g2OTg3NTc4LDE0MDE0NjE2OTUsLTIwOTkyMTE0NTgsODQ4NzA0
-Njc4LDE5NTUyMzkzMjksLTEyOTY2MTc1OTMsLTE0MTA1MzgxMD
-ldfQ==
+eyJoaXN0b3J5IjpbLTIwODE0MjExOTMsLTIwODE0MjExOTMsMT
+k4Njk4NzU3OCwxNDAxNDYxNjk1LC0yMDk5MjExNDU4LDg0ODcw
+NDY3OCwxOTU1MjM5MzI5LC0xMjk2NjE3NTkzLC0xNDEwNTM4MT
+A5XX0=
 -->
