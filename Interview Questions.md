@@ -33,7 +33,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Edward Snowden Wiki Leaks Scandal]([White Paper 1.pdf])(https://1drv.ms/b/s!Aofa4H6h1GyzgY4sqRGIHozFOfjy4A?e=7N53Ng)
 
 -   **Class:**  
 -   **Grade:**
@@ -70,6 +70,6 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NzA0Njc4LDE5NTUyMzkzMjksLTEyOT
-Y2MTc1OTMsLTE0MTA1MzgxMDldfQ==
+eyJoaXN0b3J5IjpbMjEzMDU5NTkyMyw4NDg3MDQ2NzgsMTk1NT
+IzOTMyOSwtMTI5NjYxNzU5MywtMTQxMDUzODEwOV19
 -->
