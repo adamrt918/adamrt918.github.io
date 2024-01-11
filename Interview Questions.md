@@ -33,14 +33,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### Edward Snowden Wiki Leaks Scandal 
- 
-[White Paper 1.pdf](https://1drv.ms/b/s!Aofa4H6h1GyzgY4sqRGIHozFOfjy4A?e=7N53Ng)
+### [Edward Snowden Wiki Leaks Scandal](https://1drv.ms/b/s!Aofa4H6h1GyzgY4sqRGIHozFOfjy4A?e=7N53Ng)
 
 -   **Class:**  CSCI 405 Principles of Cybersecurity
 -   **Grade:** B+
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Technology Rolls Along](https://1drv.ms/b/s!Aofa4H6h1GyzgY4m2C_Rp8a8cbMT_A?e=hNcyRD)
 
 -   **Class:** CSCI 315 Data Structures
 -   **Grade:** B+
@@ -72,7 +70,7 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTQ2MTY5NSwtMjA5OTIxMTQ1OCw4ND
-g3MDQ2NzgsMTk1NTIzOTMyOSwtMTI5NjYxNzU5MywtMTQxMDUz
-ODEwOV19
+eyJoaXN0b3J5IjpbMTk4Njk4NzU3OCwxNDAxNDYxNjk1LC0yMD
+k5MjExNDU4LDg0ODcwNDY3OCwxOTU1MjM5MzI5LC0xMjk2NjE3
+NTkzLC0xNDEwNTM4MTA5XX0=
 -->
