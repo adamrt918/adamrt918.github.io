@@ -37,8 +37,8 @@ Ethics Papers
  
 [White Paper 1.pdf](https://1drv.ms/b/s!Aofa4H6h1GyzgY4sqRGIHozFOfjy4A?e=7N53Ng)
 
--   **Class:**  CSCI
--   **Grade:**
+-   **Class:**  CSCI 405 Principles of Cybersecurity
+-   **Grade:** B+
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
@@ -72,6 +72,6 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDU1NTAwMiw4NDg3MDQ2NzgsMTk1NT
+eyJoaXN0b3J5IjpbMjA2OTc4OTI4MSw4NDg3MDQ2NzgsMTk1NT
 IzOTMyOSwtMTI5NjYxNzU5MywtMTQxMDUzODEwOV19
 -->
