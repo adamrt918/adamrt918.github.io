@@ -43,7 +43,7 @@ Ethics Papers
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
 -   **Class:** CSCI 315 Data Structures
--   **Grade:**
+-   **Grade:** B+
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
@@ -72,6 +72,7 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkyMTE0NTgsODQ4NzA0Njc4LDE5NT
-UyMzkzMjksLTEyOTY2MTc1OTMsLTE0MTA1MzgxMDldfQ==
+eyJoaXN0b3J5IjpbMTQwMTQ2MTY5NSwtMjA5OTIxMTQ1OCw4ND
+g3MDQ2NzgsMTk1NTIzOTMyOSwtMTI5NjYxNzU5MywtMTQxMDUz
+ODEwOV19
 -->
