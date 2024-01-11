@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please **[email me](https://mail.google.com/mail/?view=cm&source=mailto&to=thiemann.adam@gmail.com&su=Github_Access)**.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
