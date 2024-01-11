@@ -5,7 +5,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](https://mail.google.com/mail/?view=cm&source=mailto&to=thiemann.adam@gmail.com).
+*For access to my private project repositories, please [email me](https://mail.google.com/mail/?view=cm&source=mailto&to=thiemann.adam@gmail.com&su=Github Access).
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -69,6 +69,6 @@ Presentations
 <!-- Remove above link if you don't want to attributive -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE5MjU2MzcsMTk1NTIzOTMyOSwtMT
+eyJoaXN0b3J5IjpbLTE2ODE4MTUxNDUsMTk1NTIzOTMyOSwtMT
 I5NjYxNzU5MywtMTQxMDUzODEwOV19
 -->
