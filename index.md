@@ -21,7 +21,7 @@ Programming Projects
 ---
 ### [Fatal Exception | CSCI 325](project1)
 
-![Fatal Exception](images/title.png)
+![Fatal Exception](images/Title.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
