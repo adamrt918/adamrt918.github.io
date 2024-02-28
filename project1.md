@@ -7,7 +7,7 @@ Hangman
 -   **Grade:** A+
 -   **Language(s):** C++
 -   **Source Code Repository:** [Hangman](https://github.com/adamrt918/Hangman)
-    (Please [email me](https://mail.google.com/mail/u/0/?source=mailto&to=thiemann.adam@gmail.com&su=Github_Access&fs=1&tf=cm) to request access.
+    (Please [email me](https://mail.google.com/mail/u/0/?source=mailto&to=thiemann.adam@gmail.com&su=Github_Access&fs=1&tf=cm) to request access.)
 
 ## Project description
 
