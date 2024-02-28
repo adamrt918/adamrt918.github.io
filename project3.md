@@ -15,12 +15,12 @@ This was our final project for CSCI 325 and is a text based RPG where users must
 
 ## How to run the program
 
-Install Java
-Clone the repository to your local machine
-Open with vsCode
-Open the terminal
-Click Run without debugging.
-Play game in the vscode terminal.
+- Install Java
+- Clone the repository to your local machine
+- Open with vsCode
+- Open the terminal
+- Click Run without debugging.
+- Play game in the vscode terminal.
 
 ## UI Design
 
