@@ -9,9 +9,9 @@ Programming Projects
 
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Hangman | CSCI 235](project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Hangman](images/hangman.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
