@@ -14,9 +14,9 @@ Programming Projects
 ![Hangman](images/hangman.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Restaurant Menu | CSCI 235](project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![menu](images/menu.png)
 
 ---
 ### [Fatal Exception | CSCI 325](project3.md)
