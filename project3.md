@@ -24,6 +24,7 @@ This was our final project for CSCI 325 and is a text based RPG where users must
 
 ## UI Design
 
-All UI considerations are addressed in the program tutorial and in game.
+This game uses text input and menus for the player to navigate using the terminal. The code displays knowledge of object oriented programming, as there are many different classes of character and enemy. It also displays 
+some knowledge of game theory, wherein the different random numbers generated for damage received and given take into account different factors such as armor, strength, intellect, speed, and other attributes.
 
 [Back to Portfolio](./)
