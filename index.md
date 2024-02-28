@@ -36,14 +36,14 @@ Ethics Papers
 ### [Edward Snowden Wiki Leaks Scandal](https://1drv.ms/b/s!Aofa4H6h1GyzgY4sqRGIHozFOfjy4A?e=7N53Ng)
 
 -   **Class:**  CSCI 405 Principles of Cybersecurity
--   **Grade:** B+
+-   **Grade:** A+
 
 ### [Technology Rolls Along](https://1drv.ms/b/s!Aofa4H6h1GyzgY4m2C_Rp8a8cbMT_A?e=hNcyRD)
 
 -   **Class:** CSCI 315 Data Structures
--   **Grade:** B+
+-   **Grade:** A+
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Programming and Copyright](https://1drv.ms/w/s!Aofa4H6h1Gyz0EmiMIxaRU9OuGYR?e=XuMcaS)
 
 -   **Class:** 
 -   **Grade:**
@@ -56,13 +56,13 @@ Presentations
 ### [Hybrid Warfare](https://1drv.ms/p/s!Aofa4H6h1GyzgY4pWT64OkoOW6_r1g?e=kr7G1I)
 
 - **Class:** CSCI 405 Principles of Cyber Security
-- **Grade:** B+
+- **Grade:** A+
 
 
 ### [Stuxnet: The Dawn of Cyber Warfare](https://1drv.ms/p/s!Aofa4H6h1GyzgY4qXPuC5JNuiaE2ZQ?e=fAwvby)
 
 - **Class:** CSCI 405 Principles of Cyber Security
-- **Grade:** B+
+- **Grade:** A+
 
 ---
 
