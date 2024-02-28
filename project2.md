@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Wormhole
+Restaurant Menu
 ===============
 
--   **Class:** CSCI 315
--   **Grade:** B
+-   **Class:** CSCI 235
+-   **Grade:** A
 -   **Language(s):** C++
--   **Source Code Repository:** [Wormhole](https://github.com/adamrt918/csci-315-fall-2021/tree/e57699524a5f3d3d9af07698aca8d3201bae44c0/project4)
+-   **Source Code Repository:** [Restaurant Menu](https://github.com/adamrt918/restaurant)
     (Please [email me](https://mail.google.com/mail/u/0/?source=mailto&to=thiemann.adam@gmail.com&su=Github_Access&fs=1&tf=cm) to request access.)
 
 ## Project description
