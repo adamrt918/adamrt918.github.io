@@ -43,10 +43,10 @@ Ethics Papers
 -   **Class:** CSCI 315 Data Structures
 -   **Grade:** A+
 
-### [Ethical Programming and Copyright](https://1drv.ms/w/s!Aofa4H6h1Gyz0EmiMIxaRU9OuGYR?e=XuMcaS)
+### [Placing Ethical Codes into Faith](./pdf/Ethics_v4.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 235 Procedural Programming 
+-   **Grade:** A+
 
 ---
 
