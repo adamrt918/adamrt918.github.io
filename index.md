@@ -19,7 +19,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Fatal Exception | CSCI 325](project1)
+### [Fatal Exception | CSCI 325](project3.md)
 
 ![Fatal Exception](images/Title.png)
 
