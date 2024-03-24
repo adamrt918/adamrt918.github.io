@@ -24,7 +24,7 @@ Programming Projects
 ![Fatal Exception](images/Title.png)
 
 ---
-### [A solemn Evolution | CSCI 498](project4.md)
+### [A Solemn Evolution | CSCI 498](project4.md)
 
 ![A Solemn Evolution](images/skull.png)
 
