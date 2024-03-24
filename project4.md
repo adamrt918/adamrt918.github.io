@@ -17,7 +17,7 @@ This is my senior project. It is a visual novel with game elements intended to h
 
 - Go to https://adamrt918.itch.io/asolemnevolution
 - Download the .zip file
-- Open the .zip and run the main.exe file
+- Extract the .zip and run the main.exe file
 
 ## UI Design
 
