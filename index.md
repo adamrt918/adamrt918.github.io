@@ -14,9 +14,9 @@ Programming Projects
 ![Hangman](images/hangman.png)
 
 ---
-### [Restaurant Menu | CSCI 235](project2.md)
+### [Warfighter Foundation 5k | CSCI 334](project2.md)
 
-![menu](images/menu.png)
+![menu](images/warfighter5k.png)
 
 ---
 ### [Fatal Exception | CSCI 325](project3.md)
