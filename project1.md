@@ -14,7 +14,8 @@ This gets the VLANs that are on the user specified core device. Using lldp it cr
 ## How to compile and run the program
 
 - Clone the repository onto your ansible server.
-- Run "ansible-playbook -i hosts.yml -e "dest=<YOUR_CORE_DEVICE_HOSTNAME>" --diff
+- Run 
+    > ansible-playbook -i hosts.yml -e "dest=<YOUR_CORE_DEVICE_HOSTNAME>" --diff
 - The code will prune VLANs on your network
 
 [Back to Portfolio](./)
