@@ -9,9 +9,9 @@ Programming Projects
 
 
 ---
-### [Hangman | CSCI 235](project1.md)
+### [Juniper VLAN Pruner](project1.md)
 
-![Hangman](images/hangman.png)
+![VLAN Pruning](images/juniper.png)
 
 ---
 ### [Warfighter Foundation 5k | CSCI 334](project2.md)
