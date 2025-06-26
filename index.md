@@ -11,9 +11,9 @@ Network Automation/Engineering Portfolio
 ![VLAN Pruning](images/juniper_networks_logo.png)
 
 ---
-### [Warfighter Foundation 5k | CSCI 334](project2.md)
+### [Network Diagrams](project2.md)
 
-![menu](images/warfighter5k.png)
+![menu](images/network-diagrams-handdraw1000.png)
 
 ---
 ### [Fatal Exception | CSCI 325](project3.md)
