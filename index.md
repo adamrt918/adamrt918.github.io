@@ -62,6 +62,3 @@ Presentations
 - **Grade:** A+
 
 ---
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
