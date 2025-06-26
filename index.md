@@ -11,7 +11,7 @@ Programming Projects
 ---
 ### [Juniper VLAN Pruner](project1.md)
 
-![VLAN Pruning](images/juniper.png)
+![VLAN Pruning](images/juniper_networks_logo.png)
 
 ---
 ### [Warfighter Foundation 5k | CSCI 334](project2.md)
