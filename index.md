@@ -1,10 +1,7 @@
 
-Portfolio
+Network Automation/Engineering Portfolio
 =========
-
-Networking Portfolio
 --------------------
-
 *For access to my private project repositories, please **[email me](https://mail.google.com/mail/?view=cm&source=mailto&to=thiemann.adam@gmail.com&su=Github_Access)**.
 
 
