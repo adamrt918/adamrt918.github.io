@@ -4,7 +4,7 @@ Juniper Nautobot Integration
 ===============
 
 -   **Skills:** Python, YML, Markdown, Ansible, Juniper, Nautobot, APIs
--   **Source Code Repository:** [Juniper Nautobot Integration][https://github.com/adamrt918/vlan-pruner](https://github.com/adamrt918/ansible_repo/))
+-   **Source Code Repository:** [Juniper Nautobot Integration](https://github.com/adamrt918/ansible_repo/)
     (Please [email me](https://mail.google.com/mail/u/0/?source=mailto&to=thiemann.adam@gmail.com&su=Github_Access&fs=1&tf=cm) to request access.)
 
 ## Project description
