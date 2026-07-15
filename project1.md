@@ -17,7 +17,7 @@ My next development is to integrate Palo Alto for useability within the program.
 
 - Clone the repository onto your ansible server.
 - Run 
-    > ansible-playbook -i hosts.yml -e "dest=<YOUR_CORE_DEVICE_HOSTNAME>" --diff
-- The code will prune VLANs on your network
+    > ansible-playbook -i hosts.yml -e "dest=<device_group>"
+- The code will compile information from the active network state and sync it to nautobot.
 
 [Back to Portfolio](./)
