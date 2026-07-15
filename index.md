@@ -6,9 +6,9 @@ Network Automation/Engineering Portfolio
 
 
 ---
-### [Juniper VLAN Pruner](project1.md)
+### [Juniper Nautobot Integration](project1.md)
 
-![VLAN Pruning](images/juniper_networks_logo.png)
+![Juniper Nautobot Integration](images/juniper_networks_logo.png)
 
 ---
 ### [Network Diagrams](project2.md)
