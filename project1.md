@@ -3,13 +3,15 @@
 Juniper VLAN Pruner
 ===============
 
--   **Skills:** Python, YML, Markdown, Ansible, Juniper
--   **Source Code Repository:** [Juniper VLAN Pruner](https://github.com/adamrt918/vlan-pruner)
+-   **Skills:** Python, YML, Markdown, Ansible, Juniper, Nautobot, APIs
+-   **Source Code Repository:** [Juniper Nautobot Integration]([https://github.com/adamrt918/vlan-pruner](https://github.com/adamrt918/ansible_repo/)
     (Please [email me](https://mail.google.com/mail/u/0/?source=mailto&to=thiemann.adam@gmail.com&su=Github_Access&fs=1&tf=cm) to request access.)
 
 ## Project description
-This script prunes vlans on the network that are not in use.
-This gets the VLANs that are on the user specified core device. Using lldp it crawls through the network, and maps the switch hostname to the vlans on the upstream trunk. Once those VLANs are mapped, it searches the ports downstream to make sure that each vlan is assigned to an interface that is not on an upstream/downstream trunk and is up/up. Any VLANs which are not in use are removed from the interfaces and from the configuration. If there is no interface actively using the VLAN, it will ask if you wish to remove it entirely from your core switch configuration and any trunks throughout the whole network. 
+These scripts go through a set of target devices in the ansible playbook, "sync_nautobot.yml" to get VLAN, Prefix, and Management IP Address information for initial sync with the nautobot application using the Juniper and Nautobot APIs. Once synced, the user can use the native Device Onboarding plugin to sync network data and use yaml overrides to configure the job to perform as necessary.
+
+## Future Developments
+My next development is to integrate Palo Alto for useability within the program.
 
 ## How to compile and run the program
 
